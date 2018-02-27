@@ -12,9 +12,9 @@ This repository contains the material for the labs associated with the EPFL mast
 Below is the material you'll find in that repository:
 
 1. [Installation](#installation)
-2. Basic Image Processing
+2. [Basic Image Processing](assignments/basic_image_processing.ipynb)
 
-## Installation
+## Installation
 
 For these labs we'll need [git][git_link], [Python][python_link], [OpenCV][opencv_link] and the basic [scientific packages][scipy]. If you don't know how to install those on your platform, we recommend to install [Anaconda][anaconda], a distribution of the [conda][conda] package and environment manager. Please follow the below instructions to install it.
 
@@ -22,7 +22,7 @@ For these labs we'll need [git][git_link], [Python][python_link], [OpenCV][openc
 2. Install with default options.
 3. Open the Anaconda Prompt (e.g. from the Windows Start menu), or the Terminal for *macOS* and *Linux* users.
 4. Install git with `conda install git`.
-5. Insall opencv with `pip install opencv-python`
+5. Insall opencv with `pip install opencv-contrib-python`
 6. Download this repository with the following command `git clone https://github.com/ChristopheEcabert/ip_lab_2018`
 7. Start Jupyter with `jupyter notebook`. The command should open a new tab in your web browser.
 8. Edit and run the notebooks from your browser.
