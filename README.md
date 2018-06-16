@@ -5,6 +5,7 @@ This repository contains the material for the labs associated with the EPFL mast
 1. Basic Image Processing
 2. Object Detection
 3. Object Tracking
+4. Introduction to Deep Learning
 
 [epfl_link]: http://edu.epfl.ch/coursebook/en/lab-in-signal-and-image-processing-EE-490-F
 [moodle_link]:https://moodle.epfl.ch/course/view.php?id=14357
